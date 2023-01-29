@@ -1,0 +1,40 @@
+Objektum:
+	Az egész program egy logikailag jól elkülöníthető része.
+	Minta alapján hozzák létre, amiket objektumosztálynak vagy röviden
+	osztálynak neveznek.
+Példányosítás:
+	Osztály alapján objektumot hozunk létre.
+Objektum részei:
+	Tagváltozók:
+		Objektumok jellemző adatait tulajdonságoknak nevezzük,
+		ezeket tagváltozókban tároljuk.
+	Metódus, tageljárás:
+		Az objektumon végrehajtható műveleteket metódusoknak
+		nevezzük (tageljárás, tagfüggvény).
+		self = Az éppen aktuálisan működő példány.
+	Egységbezárás:
+		A tagváltozókat csak az objektumon belül érjük el közvetlenül.
+		Az objektum tagváltozói és metódusai ily módon egy egységként
+		viselkednek.
+	Tagfüggvények:
+		Függvény self változóval.
+Konstruktor:
+	A konstruktor az a különleges tageljárás, ami az objektum létrehozásakor
+	automatikusan lefut.
+	Tageljárásoknak kezdőértékeket adhatunk vele.
+	De, bele helyezhetők metódusok, amik az objektum létrehozásakor
+	egyből lefutnak.
+Statikus változók és metódusok:
+	Nincs közvetlen kapcsolatuk a példányokkal.
+	Statikus változók:
+		Az osztály valamennyi objektuma számára összesen egyetlen
+		példányban létezik.
+	Statikus metódusok:
+		A statikus változókat statikus metódusokkal kezeljük.
+		Nem érhetjük el belőlük a példányváltozókat.
+		Akkor is lefutnak, ha az osztálynak nincs egyetlen 
+		változója sem.
+Objektumosztály tervezése:
+	1.Felismerni a szükséges osztályokat.
+	2.Felismerni a szükséges tagváltozókat.
+	3.Felismerni a szükséges metódusokat.
