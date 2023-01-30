@@ -31,7 +31,7 @@ if (w == "a"):
     ra()
 elif(w == "d"):
     out.close()
-    re = open("list.txt", "r")
+    re = open("H:\\Feladatok\\2022-2023\\Python\\feladatok\\list.txt", "r")
     fn = input("Adja meg a fájl nevét! ")
     for i in re:
         if fn in i:
