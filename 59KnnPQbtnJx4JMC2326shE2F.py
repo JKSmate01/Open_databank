@@ -10,6 +10,7 @@ for _ in range(3):
     allat = Allat(neve,tomgege)
     allatok.append(allat)
 max = allatok[0].mass
+w.write(f"A(z) {allatok[0].nev} a legnagyobb tömegű ({allatok[0].mass}kg).")
 for allat in allatok:
     print(f"A(z) {allat.nev} tömege {allat.mass}kg.")
     if (allat.mass > max):
