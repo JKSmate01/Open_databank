@@ -26,9 +26,17 @@ def ra():
             now = datetime.now()
             today = datetime.today()
             out.write(f"{fn} = {des}  || {today} \n")
-w = input("Fájl neve (a -> összes | d -> decode): ")
+def edit():
+    for fn in os.listdir(folder):
+        if (fn != "en.py" and fn != "list.txt" and fn != "test_rewrite.py" and fn != ".git"):
+            out = open(fn,"a")
+            out.write("\n")
+            out.close()
+w = input("Fájl neve (a -> összes | d -> decode | edit): ")
 if (w == "a"):
     ra()
+elif (w == "edit"):
+    edit()
 elif(w == "d"):
     out.close()
     re = open("H:\\Feladatok\\2022-2023\\Python\\feladatok\\list.txt", "r")
