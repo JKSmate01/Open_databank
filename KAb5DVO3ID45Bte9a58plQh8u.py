@@ -13,3 +13,4 @@ for elem in t:
 print(minElem)
 
 
+

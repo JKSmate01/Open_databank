@@ -11,3 +11,4 @@ while not lin:
         print("belépés megtagadva!")
 
 
+

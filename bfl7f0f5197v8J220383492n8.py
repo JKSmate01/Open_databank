@@ -32,3 +32,4 @@ print("Súlyok ",ms)
 print("Magasságok ",hs)
 
 
+

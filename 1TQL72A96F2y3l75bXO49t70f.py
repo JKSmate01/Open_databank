@@ -29,3 +29,4 @@ for i in range(3):
     print(f"{nevelo(nevek[i])} {nevek[i]}.")
 
 
+

@@ -17,3 +17,4 @@ while True:
         print(f"{nev} nem megfelelő magasságú.")
 
 
+

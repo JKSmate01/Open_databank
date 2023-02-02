@@ -64,3 +64,4 @@ print(f'title {sz2.title()}')
 print(f'upper {sz1.upper()}')
 print(f'upper {sz2.upper()}')
 
+

@@ -69,3 +69,4 @@ def feladat04():
     # elif (hofok < FE_OP):
     #     print("Szilárd")
 
+

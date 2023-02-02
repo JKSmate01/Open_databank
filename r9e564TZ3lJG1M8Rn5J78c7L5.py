@@ -32,3 +32,4 @@ def szoveges_egy():
 szoveges_egy()
 #szamos_egy()
 
+

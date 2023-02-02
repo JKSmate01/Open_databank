@@ -49,3 +49,4 @@ for katona in hk:
     print(f"{katona.ls()} {katona.kicserel()} {katona.rf()} {katona.rs()}")
 
 
+

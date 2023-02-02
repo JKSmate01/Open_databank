@@ -7,3 +7,4 @@ while (3*Y) + 2 != 59:
     Y+=1
 print(Y)
 
+

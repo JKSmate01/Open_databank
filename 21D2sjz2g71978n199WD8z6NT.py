@@ -41,3 +41,4 @@ def t():
         print("Gagyi nyolcbitesek... Kinek kellenek?!")
 t()
 
+

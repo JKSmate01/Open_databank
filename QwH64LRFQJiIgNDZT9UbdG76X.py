@@ -15,3 +15,4 @@ Eszti = turtle.Turtle()
 Eszti.color("blue")
 ablak.mainloop()
 
+

@@ -13,3 +13,4 @@ def RomanNumeralToDecimal(romanNumeral):
 roman = input("Római számot legyenszíves! ")
 print(RomanNumeralToDecimal(roman))
 
+

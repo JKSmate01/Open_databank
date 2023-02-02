@@ -13,3 +13,4 @@ while kacat != "elfogyott":
 kacatok_felsorolva = ", ".join(kacatok)
 print("A kacatjaim: ",kacatok_felsorolva, ".", sep="")
 
+

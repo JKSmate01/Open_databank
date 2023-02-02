@@ -41,3 +41,4 @@ for d in range(len(n)):
     n.remove(n[len(n)-1])
 
 
+

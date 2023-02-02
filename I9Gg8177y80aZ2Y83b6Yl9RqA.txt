@@ -8,3 +8,4 @@ else:
     print("A két létszám egyenlő")
 
 
+

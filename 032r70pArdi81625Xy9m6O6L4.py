@@ -18,3 +18,4 @@ for egyetem in egyetemek:
     print(f"{egyetem.nev} egy {egyetem.elotag()} iskola ami {egyetem.varos}-(ban/ben) található")
     
 
+

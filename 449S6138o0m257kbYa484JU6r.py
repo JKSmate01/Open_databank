@@ -63,3 +63,4 @@ sz2 = ["én","te","ő","mi","ti","ők"]
 sz2.sort()
 print(sz2)
 
+

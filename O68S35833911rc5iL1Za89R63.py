@@ -16,3 +16,4 @@ print(f"3kg felett: {hkgfelett}db liba van. Ezeknek össz súlya {hkgfelett_tome
 print(f"5kg felett: {otkgfelett}db liba van.")
 
 
+

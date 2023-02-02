@@ -16,3 +16,4 @@ while True:
     print(f"{neve} {nemzet} gyümölcsöt vásárolt.")
 
 
+

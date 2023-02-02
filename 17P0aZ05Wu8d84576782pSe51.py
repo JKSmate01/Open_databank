@@ -30,3 +30,4 @@ def f():
         print(index+1, varos, "egy város Európában")
 
 
+

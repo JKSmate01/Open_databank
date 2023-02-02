@@ -8,3 +8,4 @@ for _ in range(3):
 for egyetem in egyetemek:
     print(f"{egyetem.nemzetiseg()} {egyetem.név} egy híres {egyetem.város} egyetem")
 
+

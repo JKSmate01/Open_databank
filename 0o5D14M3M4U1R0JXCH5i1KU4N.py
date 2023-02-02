@@ -22,3 +22,4 @@ def tu():
     print("Béka nől a hasadba!")
 tu()
 
+

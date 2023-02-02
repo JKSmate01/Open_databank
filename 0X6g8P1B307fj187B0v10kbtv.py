@@ -26,3 +26,4 @@ for i in range(len(helyek)):
 wr.close()
 
 
+

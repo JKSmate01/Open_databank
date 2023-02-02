@@ -16,3 +16,4 @@ while True:
     else:
         print(f"A ház a(z) {neve} utca bal oldalán található.")
 
+

@@ -19,3 +19,4 @@ for allat in allatok:
 w.close()
 
 
+

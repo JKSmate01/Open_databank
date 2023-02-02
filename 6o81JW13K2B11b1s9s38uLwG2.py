@@ -16,3 +16,4 @@ elif (e > 26 and e < 30):
 elif (e >= 31):
     print("Elhízott")
 
+

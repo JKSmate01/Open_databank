@@ -62,3 +62,4 @@ ip=input("IP cím: ")
 ipds = ip.replace(".","")
 print(ipds)
 
+

@@ -37,3 +37,4 @@ print(f"A hőingadozás: {ln-lk} fok")
 wr.write(f"A hőingadozás: {ln-lk} fok\n")
 
 
+

@@ -40,3 +40,4 @@ Objektumosztály tervezése:
 	3.Felismerni a szükséges metódusokat.
 
 
+

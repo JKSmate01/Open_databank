@@ -42,3 +42,4 @@ print("keresztnev" in diak)
 out.close()
 
 
+

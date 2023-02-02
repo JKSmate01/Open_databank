@@ -9,3 +9,4 @@ while True:
     szo = int(input("Hány szót tud gépelni 1 perc alatt? "))
 
 
+

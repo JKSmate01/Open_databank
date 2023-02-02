@@ -15,3 +15,4 @@ while True:
         print(f"{nev} egy kisiskola")
 
 
+

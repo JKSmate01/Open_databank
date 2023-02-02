@@ -49,3 +49,4 @@ wr.write(f"A legkisebb a(z) {i+1}. helyen van!\n")
 wr.close()
 
 
+

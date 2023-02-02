@@ -12,3 +12,4 @@ for i in range(3):
     print(f"{nevelo(szo)} {szo.lower()} {jelzo()}.")
 
 
+

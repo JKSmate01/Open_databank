@@ -16,3 +16,4 @@ if d>=0:
     print("Az egyik megoldás", x1)
     print("A másik megoldás", x2)
 
+

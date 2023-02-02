@@ -79,3 +79,4 @@ def hetnapja(honap,nap):
 print(hetnapja(1,1))
 
 
+

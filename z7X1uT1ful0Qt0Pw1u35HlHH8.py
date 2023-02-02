@@ -40,3 +40,4 @@ print(f"A róka {len(nehezebb)}db libát visz el ({ossz_n}kg)")
 print(liba)
 liba3 = ["fekete liba","tarka liba"]
 
+

@@ -29,3 +29,4 @@ while paros % 2 != 0:
     paros = int(input("Írjon be egy páros számot. "))
 print(f"Ok, a {paros} tényleg páros szám!")
 
+

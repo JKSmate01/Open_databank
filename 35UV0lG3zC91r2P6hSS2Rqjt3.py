@@ -8,3 +8,4 @@ while ora > 0:
 print(f"A rakéta a visszaszámlálást követően ennyi órával indult: {hossza}")
 
 
+
