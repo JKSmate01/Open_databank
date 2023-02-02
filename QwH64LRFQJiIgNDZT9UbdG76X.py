@@ -14,3 +14,4 @@ ablak.title("Hello, 10e!")
 Eszti = turtle.Turtle()
 Eszti.color("blue")
 ablak.mainloop()
+

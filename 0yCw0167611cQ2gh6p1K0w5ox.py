@@ -9,3 +9,4 @@ for _ in range(3):
     autok.append(auto.Híres_auto(neve,ht,orszag))
 for autokk in autok:
     print(f"{autokk.név} egy {autokk.nemzet()} autó {autokk.henger_térfogat} m3 henger térfogattal.")
+

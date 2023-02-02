@@ -39,3 +39,4 @@ Objektumosztály tervezése:
 	2.Felismerni a szükséges tagváltozókat.
 	3.Felismerni a szükséges metódusokat.
 
+

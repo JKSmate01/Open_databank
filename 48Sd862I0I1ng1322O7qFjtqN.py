@@ -52,3 +52,4 @@ while i < hossz and t[i] != ker:
         print(f"helye {i+1}")
     else:
         print("Nincs a listában!")
+

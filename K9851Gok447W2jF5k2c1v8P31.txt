@@ -6,3 +6,4 @@ while True:
         print(f"Ennyi órád van még odaérni: {veg-ora}")
     else:
         print("A bolt zárva van.")
+

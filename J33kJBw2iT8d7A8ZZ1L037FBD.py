@@ -8,3 +8,4 @@ for _ in range(3):
 for film in filmek:
     print(f"{film.cím} egy híres {film.hossz} perces {film.orszag()} film.")
 
+

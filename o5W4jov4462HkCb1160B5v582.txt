@@ -24,3 +24,4 @@ for i in range(len(helyek)):
     print(f"{helyek[i]} ({magassagok[i]:0.0f}m) = {tengerszintek(magassagok[i])}")
     wr.write(f"{helyek[i]} ({magassagok[i]:0.0f}m) = {tengerszintek(magassagok[i])}\n")
 wr.close()
+

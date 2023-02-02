@@ -48,3 +48,4 @@ for katona in hk:
     print(f"Nagy: {katona.nagy()} Kicsi: {katona.kicsi()}, {katona.add()}, {katona.nagybetus()}, {katona.kisbetus()}")
     print(f"{katona.ls()} {katona.kicserel()} {katona.rf()} {katona.rs()}")
 
+

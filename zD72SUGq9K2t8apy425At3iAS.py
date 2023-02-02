@@ -19,3 +19,4 @@ for i in range(len(szamok)):
     if (szamok[i] % 3 == 0):
         print(szamok[i])
 
+

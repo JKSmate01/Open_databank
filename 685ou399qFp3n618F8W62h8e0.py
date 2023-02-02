@@ -33,3 +33,4 @@ print(nev[0])
 for n in range(len(nev)):
     print(ord(nev[n]), chr(ord(nev[n])))
 print(nev[:2])
+

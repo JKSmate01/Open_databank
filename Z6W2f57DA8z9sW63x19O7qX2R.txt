@@ -41,3 +41,4 @@ for honap in honapok:
 for index in range(len(honapok)):
           # az eredeti listaelem módosul!
     honapok[index] = honapok[index].upper()
+

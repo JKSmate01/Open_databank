@@ -15,3 +15,4 @@ while True:
         nemzet = "nem magyar"
     print(f"{neve} {nemzet} gyümölcsöt vásárolt.")
 
+

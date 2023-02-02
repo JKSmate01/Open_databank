@@ -31,3 +31,4 @@ def szoveges_egy():
     print(dobas)
 szoveges_egy()
 #szamos_egy()
+

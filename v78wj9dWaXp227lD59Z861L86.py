@@ -15,3 +15,4 @@ while True:
     check(szelesseg, hossz)
 
 
+

@@ -12,3 +12,4 @@ for elem in t:
         minElem = elem
 print(minElem)
 
+

@@ -68,3 +68,4 @@ def feladat04():
     #         print("Szilárd, de olvadt!")
     # elif (hofok < FE_OP):
     #     print("Szilárd")
+

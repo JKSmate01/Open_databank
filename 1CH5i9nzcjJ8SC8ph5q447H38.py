@@ -27,3 +27,4 @@ def e2():
         print("Körte eladással jobban jár!")
     print("De legjobban akkor jár ha mindkettőt eladja!")
 e2()
+

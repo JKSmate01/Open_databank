@@ -18,3 +18,4 @@ for allat in allatok:
         w.write(f"A(z) {allat.nev} a legnagyobb tömegű ({allat.mass}kg).")
 w.close()
 
+

@@ -10,3 +10,4 @@ while not lin:
     else:
         print("belépés megtagadva!")
 
+

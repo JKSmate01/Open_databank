@@ -9,3 +9,4 @@ else:
         print(f"A bolt {8-ora} óra mulva fog nyitni!")
     elif (ora > 16 and ora <= 24):
         print(f"A bolt {24-ora} óra mulva fog nyitni!")
+

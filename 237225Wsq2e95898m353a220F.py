@@ -5,3 +5,4 @@ def a(d)
 def f(a):
     a  /= 2
 print(d(a(f(4))))
+

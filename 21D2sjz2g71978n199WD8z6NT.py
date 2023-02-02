@@ -40,3 +40,4 @@ def t():
     else:
         print("Gagyi nyolcbitesek... Kinek kellenek?!")
 t()
+

@@ -28,3 +28,4 @@ for i in range(3):
     print(nagybetu(nevek[i]))
     print(f"{nevelo(nevek[i])} {nevek[i]}.")
 
+

@@ -7,3 +7,4 @@ for _ in range(3):
     egyetemek.append(ha.Egyetem(nev,varos,nemzet))
 for egyetem in egyetemek:
     print(f"{egyetem.nemzetiseg()} {egyetem.név} egy híres {egyetem.város} egyetem")
+

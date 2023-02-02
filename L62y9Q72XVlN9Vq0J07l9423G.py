@@ -15,3 +15,4 @@ Tp = 2 * math.pi * r * m
 T = Ta+Tp
 print(f"Az alap területe: {(Ta):2.2f} m2 és a palást területe: {(Tp):2.2f} m2")
 
+

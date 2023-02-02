@@ -87,3 +87,4 @@ tort = Tortek()
 tort.beker()
 tort.kiir()
 tort.egyszerusit()
+

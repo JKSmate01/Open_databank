@@ -25,3 +25,4 @@ for i in range(len(helyek)):
     wr.write(f"{helyek[i]} ({magassagok[i]:0.0f}m) = {tengerszintek(magassagok[i])}\n")
 wr.close()
 
+

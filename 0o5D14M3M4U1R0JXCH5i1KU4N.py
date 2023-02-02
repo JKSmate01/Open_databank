@@ -21,3 +21,4 @@ def tu():
             print("Már sikerült elérned a 2,5 litert.")
     print("Béka nől a hasadba!")
 tu()
+

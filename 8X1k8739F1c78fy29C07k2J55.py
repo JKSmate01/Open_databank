@@ -18,3 +18,4 @@ while len(fvarosok) > 0:
     else:
         print("Ilyen város nincs a listában!")
 
+

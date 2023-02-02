@@ -9,3 +9,4 @@ class HíresFim:
         elif (self.nemzet == "GB"):
             return "angol"
 
+

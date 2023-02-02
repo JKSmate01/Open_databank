@@ -18,3 +18,4 @@ while True:
         print(f"{nev} vizsga szintje nem középfokú.")
 
 
+

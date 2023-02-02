@@ -15,3 +15,4 @@ elif (e > 26 and e < 30):
     print("Enyhe túlsúly")
 elif (e >= 31):
     print("Elhízott")
+

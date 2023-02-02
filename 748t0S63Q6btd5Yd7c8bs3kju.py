@@ -8,3 +8,4 @@ elif (celsius >= 5 and celsius <= 24):
     print("Elviselhető")
 elif (celsius >= 25):
     print("Hőség")
+

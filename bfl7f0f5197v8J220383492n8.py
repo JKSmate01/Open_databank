@@ -31,3 +31,4 @@ hs.reverse()
 print("Súlyok ",ms)
 print("Magasságok ",hs)
 
+

@@ -73,3 +73,4 @@ re = open("H:\JakusMate.txt","r")
 alahuzas(re.readline())
 wr.write(re.readline())
 wr.close()
+

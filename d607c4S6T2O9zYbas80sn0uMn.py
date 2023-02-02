@@ -8,3 +8,4 @@ if szo1_van >0 and szo2_van > 0:
 else:
     print("Nincs!")
 
+

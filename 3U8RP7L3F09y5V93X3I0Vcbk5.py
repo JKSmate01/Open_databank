@@ -11,3 +11,4 @@ for i in range(3):
     szo = input(f"Adj meg egy szót({i+1}.)! ")
     print(f"{nevelo(szo)} {szo.lower()} {jelzo()}.")
 
+

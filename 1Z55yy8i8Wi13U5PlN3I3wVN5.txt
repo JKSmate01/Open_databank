@@ -41,3 +41,4 @@ print(diak.get("kollegista","nem"))
 print("keresztnev" in diak)
 out.close()
 
+

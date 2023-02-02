@@ -28,3 +28,4 @@ hivatkozas = tippek
 tippek.remove(12)
 print(tippek)
 print(hivatkozas)
+

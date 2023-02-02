@@ -24,3 +24,4 @@ for i in range(50):
         print("BW",end="")
     print("")
 print("5.")
+

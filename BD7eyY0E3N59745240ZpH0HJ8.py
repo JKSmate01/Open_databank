@@ -8,3 +8,4 @@ while True:
     nev = input("Add meg a jelentkező nevét! ")
     szo = int(input("Hány szót tud gépelni 1 perc alatt? "))
 
+

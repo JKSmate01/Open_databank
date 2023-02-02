@@ -12,3 +12,4 @@ def RomanNumeralToDecimal(romanNumeral):
     return sum
 roman = input("Római számot legyenszíves! ")
 print(RomanNumeralToDecimal(roman))
+

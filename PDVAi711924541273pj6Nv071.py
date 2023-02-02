@@ -14,3 +14,4 @@ while True:
     else:
         print(f"{nev} egy kisiskola")
 
+

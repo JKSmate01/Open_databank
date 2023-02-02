@@ -17,3 +17,4 @@ print(d|s)
 wr.write(f"{d|s}\n")
 wr.close()
 
+

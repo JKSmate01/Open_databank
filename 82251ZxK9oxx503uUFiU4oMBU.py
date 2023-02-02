@@ -7,3 +7,4 @@ elif (kedd > szerda):
 else:
     print(f"Kedden és szerdán is ugyanannyit költöttél.")
 
+

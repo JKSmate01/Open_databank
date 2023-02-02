@@ -95,3 +95,4 @@ goto(-420,-50)
 down()
 
 dikolor("white","red")
+

@@ -6,3 +6,4 @@ while True:
         print("*"*i," "*i,"*"*i," "*i,"*"*i," "*i,"*"*i," "*i,"*"*i)
         sleep(0.025)
 
+
