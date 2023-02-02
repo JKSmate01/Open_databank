@@ -11,3 +11,4 @@ szamok  = open("H:\egyeb\szamok.txt","w")
 for i in range(1,101):
     szamok.write(f"{i}\n")
 szamok.close()
+

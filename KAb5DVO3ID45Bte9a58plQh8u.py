@@ -11,3 +11,4 @@ for elem in t:
     if elem < minElem:
         minElem = elem
 print(minElem)
+

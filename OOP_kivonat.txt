@@ -38,3 +38,4 @@ Objektumosztály tervezése:
 	1.Felismerni a szükséges osztályokat.
 	2.Felismerni a szükséges tagváltozókat.
 	3.Felismerni a szükséges metódusokat.
+

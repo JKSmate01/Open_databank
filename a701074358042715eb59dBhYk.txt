@@ -24,3 +24,4 @@ for _ in range(3):
     telepulesek.append(telepules)
 for tel in telepulesek:
     print(f"{tel.település} egy {tel.fekvese()} parti {tel.lakossag()}, {tel.lakok} fővel.")
+

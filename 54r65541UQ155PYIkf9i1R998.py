@@ -15,3 +15,4 @@ while True:
         print(f"{nev} megfelelő magasságú.")
     else:
         print(f"{nev} nem megfelelő magasságú.")
+

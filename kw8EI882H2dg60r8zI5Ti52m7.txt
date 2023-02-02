@@ -6,3 +6,4 @@ while ora > 0:
         hossza += 1
     ora -= 1
 print(f"A rakéta a visszaszámlálást követően ennyi órával indult: {hossza}")
+

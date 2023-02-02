@@ -9,3 +9,4 @@ while menny < 101:
 print("")
 print(neved * 100)
 
+

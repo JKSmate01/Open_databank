@@ -8,3 +8,4 @@ class Egyetem:
             return "University."
         elif(self.nemzet == "n"):
             return "Universität"
+

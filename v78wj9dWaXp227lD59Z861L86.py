@@ -14,3 +14,4 @@ while True:
     szelesseg = int(input("Milyen széles a kert? "))
     check(szelesseg, hossz)
 
+

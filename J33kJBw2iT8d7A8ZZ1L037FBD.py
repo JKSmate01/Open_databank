@@ -7,3 +7,4 @@ for _ in range(3):
     filmek.append(hfa.HíresFim(neve,h,nemzet))
 for film in filmek:
     print(f"{film.cím} egy híres {film.hossz} perces {film.orszag()} film.")
+

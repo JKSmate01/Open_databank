@@ -27,3 +27,4 @@ for i in range(3):
     print(f"{nevek[i]} {meter(magassag[i]):0.2f}km magasra mászott")
     print(nagybetu(nevek[i]))
     print(f"{nevelo(nevek[i])} {nevek[i]}.")
+

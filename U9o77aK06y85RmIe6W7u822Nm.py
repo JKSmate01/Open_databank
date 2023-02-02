@@ -5,3 +5,4 @@ for _ in range(1000000):
     if (dob == 6):
         hatosak += 1
 print(hatosak)
+

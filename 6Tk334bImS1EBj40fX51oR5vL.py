@@ -15,3 +15,4 @@ if d>=0:
     x2 = (-b+math.sqrt(d))/(2*a)
     print("Az egyik megoldás", x1)
     print("A másik megoldás", x2)
+

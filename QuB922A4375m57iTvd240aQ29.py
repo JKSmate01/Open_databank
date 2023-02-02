@@ -6,3 +6,4 @@ elif (szam1 < szam2):
     print(f"A létszám érték a másik iskolában több, {szam2}")
 else:
     print("A két létszám egyenlő")
+

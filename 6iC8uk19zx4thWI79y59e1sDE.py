@@ -77,3 +77,4 @@ def hetnapja(honap,nap):
 
     return hetnapja
 print(hetnapja(1,1))
+

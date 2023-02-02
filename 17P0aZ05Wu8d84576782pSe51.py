@@ -28,3 +28,4 @@ def f():
     varosok = ["Miskolc","Párizs","Dublin","Lajosmizse"]
     for index, varos in enumerate(varosok):
         print(index+1, varos, "egy város Európában")
+

@@ -8,3 +8,4 @@ while i < t:
         halasztva += 1
     i+=1
 print(f"A rakéta a visszaszámlálást követően ennyi órával indult:{t+halasztva}")
+

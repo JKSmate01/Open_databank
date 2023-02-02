@@ -42,3 +42,4 @@ if (ch == 0):
     orai()
 elif (ch == 1):
     feladat()
+

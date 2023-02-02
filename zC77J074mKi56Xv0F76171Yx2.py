@@ -75,3 +75,4 @@ alahuzas(re.readline())
 wr.write(re.readline())
 re.close()
 wr.close()
+

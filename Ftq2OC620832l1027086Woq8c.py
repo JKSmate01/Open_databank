@@ -53,3 +53,4 @@ if (w == 0):
     foros(am)
 elif(w==1):
     listas(am)
+

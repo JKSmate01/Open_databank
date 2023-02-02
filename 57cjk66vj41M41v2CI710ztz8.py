@@ -12,3 +12,4 @@ while True:
         print(f"{neve} nagy létszámú iskola.")
     else:
         print(f"{neve} kis létszámú iskola.")
+

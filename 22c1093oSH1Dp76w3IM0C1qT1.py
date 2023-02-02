@@ -47,3 +47,4 @@ for katona in hk:
     print(f"{katona.nagybetu()} Végződése(a): {katona.vegzodes()} Hol van benne(a): {katona.keres()} Számok(foglalkozás): {katona.szamok()} Betűk(nev): {katona.betuk()}")
     print(f"Nagy: {katona.nagy()} Kicsi: {katona.kicsi()}, {katona.add()}, {katona.nagybetus()}, {katona.kisbetus()}")
     print(f"{katona.ls()} {katona.kicserel()} {katona.rf()} {katona.rs()}")
+

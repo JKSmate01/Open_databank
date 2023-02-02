@@ -47,3 +47,4 @@ while i < len(ev) and ev[i] != lk:
 print(f"A legkisebb a(z) {i+1}. helyen van!")
 wr.write(f"A legkisebb a(z) {i+1}. helyen van!\n")
 wr.close()
+

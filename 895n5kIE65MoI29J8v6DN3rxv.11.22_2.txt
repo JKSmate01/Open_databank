@@ -35,3 +35,4 @@ print(f"Az átlag hőmérséklet: {atlag:0.2f} fok")
 wr.write(f"Az átlag hőmérséklet: {atlag:0.2f} fok\n")
 print(f"A hőingadozás: {ln-lk} fok")
 wr.write(f"A hőingadozás: {ln-lk} fok\n")
+

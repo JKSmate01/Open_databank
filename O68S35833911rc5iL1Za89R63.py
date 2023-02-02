@@ -14,3 +14,4 @@ for d in range(len(ketrec)):
         hkgfelett_tomeg += ketrec[d]
 print(f"3kg felett: {hkgfelett}db liba van. Ezeknek össz súlya {hkgfelett_tomeg}kg.")
 print(f"5kg felett: {otkgfelett}db liba van.")
+

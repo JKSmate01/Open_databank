@@ -17,3 +17,4 @@ while len(fvarosok) > 0:
         fvarosok.remove(melyik)
     else:
         print("Ilyen város nincs a listában!")
+
