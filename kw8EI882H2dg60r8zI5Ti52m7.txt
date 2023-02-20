@@ -9,3 +9,4 @@ print(f"A rakéta a visszaszámlálást követően ennyi órával indult: {hossz
 
 
 
+

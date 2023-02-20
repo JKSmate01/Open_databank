@@ -10,3 +10,4 @@ elif (celsius >= 25):
     print("Hőség")
 
 
+

@@ -27,3 +27,4 @@ for tel in telepulesek:
 
 
 
+

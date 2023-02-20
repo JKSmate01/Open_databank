@@ -80,3 +80,4 @@ print(hetnapja(1,1))
 
 
 
+

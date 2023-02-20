@@ -20,3 +20,4 @@ for i in range(len(szamok)):
         print(szamok[i])
 
 
+

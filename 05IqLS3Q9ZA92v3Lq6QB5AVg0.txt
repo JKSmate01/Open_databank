@@ -89,3 +89,4 @@ tort.kiir()
 tort.egyszerusit()
 
 
+

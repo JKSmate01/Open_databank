@@ -16,3 +16,4 @@ Eszti.color("blue")
 ablak.mainloop()
 
 
+

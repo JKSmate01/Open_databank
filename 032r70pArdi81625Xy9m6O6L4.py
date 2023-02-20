@@ -19,3 +19,4 @@ for egyetem in egyetemek:
     
 
 
+

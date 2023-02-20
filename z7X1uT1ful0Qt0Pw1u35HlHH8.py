@@ -41,3 +41,4 @@ print(liba)
 liba3 = ["fekete liba","tarka liba"]
 
 
+

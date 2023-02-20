@@ -17,3 +17,4 @@ if d>=0:
     print("A másik megoldás", x2)
 
 
+

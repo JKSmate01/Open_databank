@@ -11,3 +11,4 @@ else:
         print(f"A bolt {24-ora} óra mulva fog nyitni!")
 
 
+

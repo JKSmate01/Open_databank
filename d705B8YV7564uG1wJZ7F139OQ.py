@@ -30,3 +30,4 @@ while paros % 2 != 0:
 print(f"Ok, a {paros} tényleg páros szám!")
 
 
+

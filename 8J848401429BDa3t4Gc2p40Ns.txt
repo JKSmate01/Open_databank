@@ -30,3 +30,4 @@ print(tippek)
 print(hivatkozas)
 
 
+

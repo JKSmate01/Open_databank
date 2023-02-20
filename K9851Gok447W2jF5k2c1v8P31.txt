@@ -8,3 +8,4 @@ while True:
         print("A bolt zárva van.")
 
 
+

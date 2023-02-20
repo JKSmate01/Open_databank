@@ -33,3 +33,4 @@ iras(f"Októberben az átlag: {atlag/len(okt):0.2f} volt\n")
 wr.close()
 
 
+

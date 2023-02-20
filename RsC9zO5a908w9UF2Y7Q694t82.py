@@ -13,3 +13,4 @@ if (neve != ""):
         i += 1
 else:
     print(f"A fájl név ({neve}) nem elfogadható!!")
+

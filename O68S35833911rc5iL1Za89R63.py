@@ -17,3 +17,4 @@ print(f"5kg felett: {otkgfelett}db liba van.")
 
 
 
+

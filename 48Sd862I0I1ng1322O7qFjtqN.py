@@ -54,3 +54,4 @@ while i < hossz and t[i] != ker:
         print("Nincs a listában!")
 
 
+

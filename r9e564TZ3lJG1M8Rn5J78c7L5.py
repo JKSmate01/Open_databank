@@ -33,3 +33,4 @@ szoveges_egy()
 #szamos_egy()
 
 
+
